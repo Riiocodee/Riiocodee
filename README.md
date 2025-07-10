@@ -67,10 +67,6 @@ process of putting them in.” – Edsger Dijkstra
 
 ---
 
- 🧮 Contributor Grade-o-Meter
-
-[![Riya's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Riiocodee&limit=5&theme=algolia&combine_all_yearly_contributions=true)](https://github.com/Riiocodee)
-
  📌 Top Contributed Repo
 
 [![Riya's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Riiocodee&limit=5&theme=algolia&combine_all_yearly_contributions=true)](https://github.com/Riiocodee)

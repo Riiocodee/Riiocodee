@@ -1,10 +1,8 @@
- Riya Singh Bhadoria 
+   Riya Singh Bhadoria 
 
 ✨ About Me
-
-🎓 Computer Science undergraduate at IIIT Kottayam (Batch of 2028)  
-💡 Passionate about:
-
+ Computer Science undergraduate at IIIT Kottayam (Batch of 2028)  
+--- Passionate about:
 - 🌐 Full Stack Web Development  
 - 🤖 Artificial Intelligence  
 - 🤖 Robotics
@@ -17,6 +15,14 @@
 Driven by curiosity. Eager to build impactful technology!
 
 ---
+
+ 🌐 Socials
+
+[![GitHub Followers](https://img.shields.io/github/followers/Riiocodee?style=social)](https://github.com/Riiocodee)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-singh-bhadoria)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/singh_riyaofficial/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RiyaSBhadoria)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jr.mpriya225@gmail.com)
 
 💻 Tech Stack & Tools
 

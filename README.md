@@ -76,3 +76,9 @@ process of putting them in.” – Edsger Dijkstra
 # Sponsor Me
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-DB61A2?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Riiocodee)
+
+# You can help me by Donating
+ [![Donate](https://img.shields.io/badge/Support%20Me-Linktree-brightgreen?style=for-the-badge&logo=linktree)](https://linktr.ee/yourname)
+ 
+# Support me 
+[![Support via Patreon](https://img.shields.io/badge/Patreon-Support-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/yourname)

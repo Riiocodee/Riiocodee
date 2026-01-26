@@ -1,11 +1,22 @@
-   Riya Singh Bhadoria 
+Riya Singh Bhadoria 
 
-✨ About Me
- Computer Science undergraduate at IIIT Kottayam (Batch of 2028)  
---- Passionate about:
-- 🌐 Full Stack Web Development  
-- 🤖 Artificial Intelligence  
-- 🤖 Robotics
+##  About Me
+
+Hey! I'm Riya Singh Bhadoria, a Computer Science student at IIIT Kottayam (Batch of 2028).
+
+I love building impactful tech — from full-stack web apps to AI-powered systems and hardware-driven automation projects.
+
+##  Interests & Focus Areas
+-> Full Stack Web Development  
+-> Artificial Intelligence & Machine Learning  
+-> Data-Driven Systems & Analytics  
+-> Generative AI & Intelligent Agents  
+->Real-Time Web Applications  
+->Robotics & Automation  
+->Drone Technologies & Intelligent Automation systems  
+->Problem Solving through Scalable Software Engineering
+
+Passionate about creating scalable software and real-world technology solutions.
 
 - ![Visitor Badge](https://komarev.com/ghpvc/?username=Riiocodee&style=flat-square&color=blue)  
 [![GitHub Followers](https://img.shields.io/github/followers/Riiocodee?style=social)](https://github.com/Riiocodee)  
@@ -47,8 +58,10 @@ Driven by curiosity. Eager to build impactful technology!
 ---
  🎓 Certifications
 
-- ✅ C Programming – Santa Cruz University, California  
-- ✅ C++ Programming – Santa Cruz University, California
+- Generative AI - Infosys
+- Generative AI Mastermind - Outskill
+-  C Programming – Santa Cruz University, California  
+-  C++ Programming – Santa Cruz University, California
 
 ---
  📊 GitHub Stats

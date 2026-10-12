@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Riya Singh Bhadoria banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#1b2b4a;#0f2027" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364;#1f6f8b;#2c5364" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36bcf7"/>
+      <stop offset="100%" stop-color="#7ee8c3"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 54px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; animation: rise 1.2s ease-out both; }
+      .role { font: 500 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #cfe9f5; animation: rise 1.6s ease-out both; }
+      .tag  { font: 400 16px 'Courier New', monospace; fill: #7ee8c3; animation: rise 2s ease-out both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+      .float1 { animation: drift 9s ease-in-out infinite; }
+      .float2 { animation: drift 12s ease-in-out infinite reverse; }
+      @keyframes drift { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+    </style>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <g opacity="0.18" class="float1">
+    <circle cx="1020" cy="70" r="90" fill="none" stroke="#36bcf7" stroke-width="2"/>
+    <circle cx="1020" cy="70" r="55" fill="none" stroke="#7ee8c3" stroke-width="2"/>
+  </g>
+  <g opacity="0.15" class="float2">
+    <circle cx="130" cy="210" r="70" fill="none" stroke="#7ee8c3" stroke-width="2"/>
+    <rect x="1080" y="170" width="70" height="70" rx="10" fill="none" stroke="#36bcf7" stroke-width="2"/>
+  </g>
+  <text x="600" y="108" text-anchor="middle" class="name">Riya Singh Bhadoria</text>
+  <rect x="520" y="128" width="160" height="4" rx="2" fill="url(#accent)"/>
+  <text x="600" y="172" text-anchor="middle" class="role">CS Undergrad  |  Full Stack  |  AI/ML  |  Robotics &amp; Drones</text>
+  <text x="600" y="210" text-anchor="middle" class="tag">&lt; building impactful technology /&gt;</text>
+</svg>

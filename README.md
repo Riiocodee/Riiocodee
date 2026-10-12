@@ -45,7 +45,7 @@ const riya = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -83,8 +83,6 @@ const riya = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,figma&theme=dark" alt="Tools"/>
 
 </div>
-
-<sub>Update the icon lists above so they show only what you genuinely use. Recruiters read this section closely, so accuracy matters more than length.</sub>
 
 ---
 
@@ -137,7 +135,7 @@ const riya = {
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 -  Artificial Intelligence and Machine Learning with Drone Automation, IIT Roorkee
 -  Generative AI, Infosys
@@ -146,7 +144,7 @@ const riya = {
 
 ---
 
-## 🌱 Currently
+##  Currently
 
 -  Building projects at the intersection of AI and full-stack development
 -  Deepening my knowledge of generative AI, agents and scalable system design

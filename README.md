@@ -115,13 +115,13 @@ const riya = {
 <a href="https://github.com/Riiocodee/mitiq">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
 </a>
-<a href="[https://github.com/Riiocodee/your-repo-name-2](https://github.com/Riiocodee/AI-Course-Builder)">
+<a href="https://github.com/Riiocodee/AI-Course-Builder">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
 </a>
-<a href="https://github.com/Riiocodee/your-repo-name-3">
+<a href="https://github.com/Riiocodee/AI-Resume-Screening">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-3&theme=tokyonight&hide_border=true" alt="Project 3"/>
 </a>
-<a href="https://github.com/Riiocodee/your-repo-name-4">
+<a href="https://github.com/Riiocodee/AI-for-Bharat-WalkAuth">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
 </a>
 

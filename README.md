@@ -112,7 +112,7 @@ const riya = {
 <!-- Replace "your-repo-name-N" with your real repository names -->
 <div align="center">
 
-<a href="https://github.com/Riiocodee/your-repo-name-1">
+<a href="https://github.com/Riiocodee/mitiq">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
 </a>
 <a href="https://github.com/Riiocodee/your-repo-name-2">

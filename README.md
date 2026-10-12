@@ -57,16 +57,6 @@ Driven by curiosity. Eager to build impactful technology!
 -  C and C++ Programming – Santa Cruz University, California  
 
 ---
- 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riiocodee&show_icons=true&theme=algolia&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riiocodee&theme=algolia)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riiocodee&layout=compact&theme=algolia)
-
----
-🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Riiocodee&theme=algolia&column=7&margin-w=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 “If debugging is the process of removing software bugs, then programming must be the 
 process of putting them in.” – Edsger Dijkstra

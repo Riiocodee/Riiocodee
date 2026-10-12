@@ -1,16 +1,10 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Riya%20Singh%20Bhadoria&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Full%20Stack%20%7C%20AI%2FML%20%7C%20Robotics%20%26%20Drones&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+<img src="./assets/banner.svg" width="100%" alt="Riya Singh Bhadoria banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+@+IIIT+Kottayam+(Batch+of+2028);Building+full-stack+web+apps+and+AI-powered+systems;Exploring+Generative+AI+and+intelligent+agents;Tinkering+with+robotics%2C+drones+and+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Computer+Science+@+IIIT+Kottayam+(Batch+of+2028);Building+full-stack+web+apps+and+AI-powered+systems;Exploring+Generative+AI+and+intelligent+agents;Tinkering+with+robotics%2C+drones+and+automation" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Riiocodee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Riiocodee?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="followers"/>
 
 <br/><br/>
 
@@ -23,7 +17,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi, I'm Riya, a Computer Science student at IIIT Kottayam (Batch of 2028). I like building technology that solves real problems, from full-stack web apps and AI-powered systems to hardware-driven automation projects. I'm driven by curiosity and I learn best by shipping things.
 
@@ -41,8 +35,8 @@ const riya = {
 
 ##  Focus Areas
 
-| Area              | What I work on |
-|-----------------------|----------------|
+| Area          | What I work on |
+|---------------|----------------|
 |  Full Stack Development | Responsive, scalable web apps and real-time applications |
 |  AI and Machine Learning | Data-driven systems, analytics, model building |
 |  Generative AI | LLM-powered apps and intelligent agents |
@@ -53,33 +47,53 @@ const riya = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,bash&theme=dark" alt="Languages"/>
 
-**Web**
+**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="Frontend"/>
 
-**Tools and Platforms**
+**Backend and Real-time**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" alt="Backend"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Databases"/>
+
+**AI, ML and Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&theme=dark" alt="AI and ML"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+
+**Robotics and Embedded**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Robotics"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+
+**Tools and DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,figma&theme=dark" alt="Tools"/>
+
+</div>
+
+<sub>Update the icon lists above so they show only what you genuinely use. Recruiters read this section closely, so accuracy matters more than length.</sub>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Riiocodee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riiocodee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Riiocodee&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub stats with pull requests"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riiocodee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
 <br/>
 
@@ -87,19 +101,13 @@ const riya = {
 
 </div>
 
-### 🏆 Trophies
+###  Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Riiocodee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
 </div>
 
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riiocodee&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
-</div>
-
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Riiocodee/Riiocodee/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
@@ -107,22 +115,22 @@ const riya = {
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 <!-- Replace "your-repo-name-N" with your real repository names -->
 <div align="center">
 
-<a href="https://github.com/Riiocodee/mitiq">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=mitiq&theme=tokyonight&hide_border=true" alt="Project 1"/>
+<a href="https://github.com/Riiocodee/your-repo-name-1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
 </a>
-<a href="https://github.com/Riiocodee/AI-Course-Builder">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=AI-Course-Builder&theme=tokyonight&hide_border=true" alt="Project 2"/>
+<a href="https://github.com/Riiocodee/your-repo-name-2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
 </a>
-<a href="https://github.com/Riiocodee/AI-Resume-Screening">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=AI-Resume-Screening&theme=tokyonight&hide_border=true" alt="Project 3"/>
+<a href="https://github.com/Riiocodee/your-repo-name-3">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-3&theme=tokyonight&hide_border=true" alt="Project 3"/>
 </a>
-<a href="https://github.com/Riiocodee/AI-for-Bharat-WalkAuth">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=AI-for-Bharat-WalkAuth&theme=tokyonight&hide_border=true" alt="Project 4"/>
+<a href="https://github.com/Riiocodee/your-repo-name-4">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
 </a>
 
 </div>
@@ -150,9 +158,5 @@ const riya = {
 <div align="center">
 
 <i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in." — Edsger Dijkstra</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>

@@ -16,9 +16,7 @@ I love building impactful tech — from full-stack web apps to AI-powered system
 ->Drone Technologies & Intelligent Automation systems  
 ->Problem Solving through Scalable Software Engineering
 
-Passionate about creating scalable software and real-world technology solutions.
-
-- ![Visitor Badge](https://komarev.com/ghpvc/?username=Riiocodee&style=flat-square&color=blue)  
+ Creating scalable software and real-world technology solutions.
 
 ---
 

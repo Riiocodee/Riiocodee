@@ -19,7 +19,6 @@ I love building impactful tech — from full-stack web apps to AI-powered system
 Passionate about creating scalable software and real-world technology solutions.
 
 - ![Visitor Badge](https://komarev.com/ghpvc/?username=Riiocodee&style=flat-square&color=blue)  
-[![GitHub Followers](https://img.shields.io/github/followers/Riiocodee?style=social)](https://github.com/Riiocodee)  
 
 ---
 
@@ -29,7 +28,6 @@ Driven by curiosity. Eager to build impactful technology!
 
  🌐 Socials
 
-[![GitHub Followers](https://img.shields.io/github/followers/Riiocodee?style=social)](https://github.com/Riiocodee)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-singh-bhadoria)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/singh_riyaofficial/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/RiyaSBhadoria)  
@@ -55,11 +53,10 @@ Driven by curiosity. Eager to build impactful technology!
 
 ---
  🎓 Certifications
-
+- Artificial Intelligence and Machine Learning with Drone Automation -IIT Roorkee
 - Generative AI - Infosys
 - Generative AI Mastermind - Outskill
--  C Programming – Santa Cruz University, California  
--  C++ Programming – Santa Cruz University, California
+-  C and C++ Programming – Santa Cruz University, California  
 
 ---
  📊 GitHub Stats

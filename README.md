@@ -118,17 +118,17 @@ const riya = {
 <!-- Replace "your-repo-name-N" with your real repository names -->
 <div align="center">
 
-<a href="https://github.com/Riiocodee/your-repo-name-1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+<a href="https://github.com/Riiocodee/mitiq">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=mitiq&theme=tokyonight&hide_border=true" alt="Project 1"/>
 </a>
-<a href="https://github.com/Riiocodee/your-repo-name-2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+<a href="https://github.com/Riiocodee/qiskit">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=qiskit&theme=tokyonight&hide_border=true" alt="Project 2"/>
 </a>
-<a href="https://github.com/Riiocodee/your-repo-name-3">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-3&theme=tokyonight&hide_border=true" alt="Project 3"/>
+<a href="https://github.com/Riiocodee/AI-Resume-Screening">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=AI-Resume-Screening&theme=tokyonight&hide_border=true" alt="Project 3"/>
 </a>
-<a href="https://github.com/Riiocodee/your-repo-name-4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=your-repo-name-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
+<a href="https://github.com/Riiocodee/cattle-breed-classification-app">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=cattle-breed-classification-app&theme=tokyonight&hide_border=true" alt="Project 4"/>
 </a>
 
 </div>

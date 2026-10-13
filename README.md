@@ -35,7 +35,7 @@ const riya = {
 
 ##  Focus Areas
 
-| Area          | What I work on |
+| Area     | What I work on |
 |---------------|----------------|
 |  Full Stack Development | Responsive, scalable web apps and real-time applications |
 |  AI and Machine Learning | Data-driven systems, analytics, model building |

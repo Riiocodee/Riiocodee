@@ -115,9 +115,7 @@ const riya = {
 <a href="https://github.com/Riiocodee/mitiq">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=mitiq&theme=tokyonight&hide_border=true" alt="Project 1"/>
 </a>
-<a href="https://github.com/Riiocodee/qiskit">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=qiskit&theme=tokyonight&hide_border=true" alt="Project 2"/>
-</a>
+
 <a href="https://github.com/Riiocodee/AI-Resume-Screening">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riiocodee&repo=AI-Resume-Screening&theme=tokyonight&hide_border=true" alt="Project 3"/>
 </a>
